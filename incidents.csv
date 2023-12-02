@@ -1,0 +1,11 @@
+Id,titre,description,service,date
+1,Chute dans le couloir,Patient tombé dans le couloir,Service Urgences,2022-01-01
+2,Erreur de médication,Erreur dans l'administration de médicaments,Service Pharmacie,2022-02-15
+3,Problème technique,Problème avec l'équipement médical,Service Maintenance,2022-03-20
+4,Allergie médicamenteuse,Réaction allergique à un médicament,Service Urgences,2022-04-10
+5,Infection nosocomiale,Infection acquise à l'hôpital,Service Hygiène,2022-05-05
+6,Chute du lit,Chute d'un patient du lit,Service Urgences,2023-01-02
+7,Retard de diagnostic,Retard dans le diagnostic d'une maladie,Service Radiologie,2023-02-18
+8,Panne d'électricité,Panne d'électricité dans tout l'hôpital,Service Maintenance,2023-03-25
+9,Infiltration d'eau,Infiltration d'eau dans une salle,Service Travaux,2023-04-15
+10,Incident informatique,Panne du système informatique,Service Informatique,2023-05-20
